@@ -1,0 +1,29 @@
+[33mcommit def9bb4ee411b12b8952b2f93129a790dd00d84a[m[33m ([m[1;36mHEAD -> [m[1;32mrebase[m[33m, [m[1;32mreddy[m[33m, [m[1;32mmain[m[33m)[m
+Author: root <root@ip-172-31-33-171.ap-south-1.compute.internal>
+Date:   Fri Sep 17 05:17:27 2021 +0000
+
+     last
+
+[33mcommit 2ff114414acc3fd63342d5d4b8d6e14fdf549bb1[m
+Author: root <root@ip-172-31-33-171.ap-south-1.compute.internal>
+Date:   Fri Sep 17 05:15:15 2021 +0000
+
+     third&four
+
+[33mcommit c112a832effb09562ab3a12065da9442b46d4ec0[m
+Author: root <root@ip-172-31-33-171.ap-south-1.compute.internal>
+Date:   Fri Sep 17 05:14:50 2021 +0000
+
+    second
+
+[33mcommit 4c27547eb396619573d0347f02ccada0d424ddc2[m
+Author: root <root@ip-172-31-33-171.ap-south-1.compute.internal>
+Date:   Fri Sep 17 05:14:17 2021 +0000
+
+     first
+
+[33mcommit 37cd1e5d2cec742a7de00757ebcd4313b06f0838[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: upendrareddy <81755844+sangatiupendrareddy@users.noreply.github.com>
+Date:   Fri Sep 17 10:41:11 2021 +0530
+
+    Initial commit
